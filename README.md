@@ -11,5 +11,4 @@ Implement from scratch the ridge regression algorithm for regression with square
 For a deeper understanding of the main code of the project, contained in the "*Python Code*" folder, it is suggested to read the "*Machine Learning Project - LATEX*" document before or along the performed tasks, since it contains all the comments and results.
 
 Thank you,
-
 *Francesco Lazzara*
