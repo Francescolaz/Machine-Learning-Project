@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="200" src="logo.png">
+  <img width="600" height="150" src="logo.png">
 </p>
 
 # Machine-Learning-Project
