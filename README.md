@@ -1,4 +1,4 @@
-![ss](<https://archivi.unimi.it/wp-content/themes/apice-theme/img/UNIMI_footer.png>)
+![ss](https://archivi.unimi.it/wp-content/themes/apice-theme/img/UNIMI_footer.png)
 
 # Machine-Learning-Project
 
