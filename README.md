@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="460" height="300" src="https://archivi.unimi.it/wp-content/themes/apice-theme/img/UNIMI_footer.png![image](https://user-images.githubusercontent.com/60002222/118120399-1f162500-b3f0-11eb-9270-db03318bb608.png)">
+  <img width="460" height="300" src="logo.png">
 </p>
+
 # Machine-Learning-Project
 
 ## Task
